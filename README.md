@@ -80,6 +80,17 @@ These features help in identifying time-based sales patterns.
 - Payment method preferences
 
 ---
+# Insights:
+
+1. product lines like food and beverages consistently outperform    others and underperforming is health and beauty
+
+2. Sales peak during specific times of the day i.e. afternoon
+
+3. Members contribute higher average revenue
+
+4. Customer purchasing behavior varies by gender and city
+
+---
 
 # Sample SQL Queries:
 ```sql
@@ -90,12 +101,3 @@ GROUP BY `product line`
 ORDER BY total_sold DESC;
 
 
-# Insights:
-
-1. product lines like food and beverages consistently outperform    others and underperforming is health and beauty
-
-2. Sales peak during specific times of the day i.e. afternoon
-
-3. Members contribute higher average revenue
-
-4. Customer purchasing behavior varies by gender and city
