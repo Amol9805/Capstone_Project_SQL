@@ -89,6 +89,18 @@ These features help in identifying time-based sales patterns.
 3. Members contribute higher average revenue
 
 4. Customer purchasing behavior varies by gender and city
+---
+# Future Enhancements:
+
+1. Integrate with Power BI / Tableau dashboards
+
+2. Automate reports
+
+3. Apply advanced analytics and forecasting
+
+---
+# conclusion:
+This capstone project demonstrates strong SQL skills, structured analytical thinking, and real-world business insight generation using data.
 
 ---
 
